@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Willian Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=williandaniel&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williandaniel&hide_progress=true)](https://github.com/williandaniel/github-readme-stats)
