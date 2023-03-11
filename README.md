@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Willian Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=williandaniel&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=williandaniel&color=lightgrey)
+
