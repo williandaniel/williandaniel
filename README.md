@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <!-- ![Willian Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=williandaniel&show_icons=true&theme=radical) -->
 
-<div>
+
+<div style="display: flex; flex-direction: row;">
 	<a href="https://github.com/williandaniel">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=williandaniel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandaniel&layout=compact"/>
+	<img class="img" src="https://github-readme-stats.vercel.app/api?username=williandaniel&show_icons=true&theme=radical"/>
+	<!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandaniel&theme=radical&layout=compact"/> -->
 </div>
 
 ![](https://komarev.com/ghpvc/?username=williandaniel&color=lightgrey)
